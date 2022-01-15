@@ -24,3 +24,11 @@ Skills: PYTHON / C / JAVA / HTML / CSS
 
 ### My Github Stats:
 [![Sivateja's GitHub stats](https://github-readme-stats.vercel.app/api?username=sivatejaat)](https://github.com/sivateja/github-readme-stats)
+
+
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivatejaat)](https://github.com/anuraghazra/github-readme-stats)
+ 
+
+
