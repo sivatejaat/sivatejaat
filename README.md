@@ -1,16 +1,14 @@
-### Hi there 👋
+## Hi there 👋
+ I'm Sivateja, a Data Scientist, Developer and Coder who loves to visualize and play with data.📊
 
-<!--
-**sivatejaat/sivatejaat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Personally, I feel that python is the best language to work with, but I can code in other languages as well.
 
-Here are some ideas to get you started:
+ 
+Some of the prjects I've worked on are: 
+ 1. Custom notepad applications build on python (you can add your own font too!)
+ 2. Data Analysis and Data visualization of the Indian Premier League (IPL) from 2008 to 2019.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently I'm working on a project to visualize the data of Formula-1 seasons from 1950 to 2021.
+
+### My Github Stats:
+[![Sivateja's GitHub stats](https://github-readme-stats.vercel.app/api?username=sivatejaat)](https://github.com/sivateja/github-readme-stats)
