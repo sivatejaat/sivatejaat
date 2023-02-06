@@ -1,5 +1,5 @@
 ### Hi there 👋, I'm Sivateja
-#### I'm a Data Scientist, Developer and Coder who loves to visualize and play with data.📊
+#### I'm a Data Science Enthusiast, Developer and Coder who loves to visualize and play with data.📊
 ![I'm a Data Scientist, Developer and Coder who loves to visualize and play with data.📊](http://invisiblefiction.com/wp-content/uploads/ml-header-bg.jpg)
 
 Personally, I feel that python is the best language to work with, but I can code in other languages as well.
