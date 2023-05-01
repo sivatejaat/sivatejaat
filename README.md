@@ -1,19 +1,20 @@
-### Hi there 👋, I'm Sivateja
-#### I'm a Data Science Enthusiast, Developer and Coder who loves to visualize and play with data.📊
-![I'm a Data Scientist, Developer and Coder who loves to visualize and play with data.📊](http://invisiblefiction.com/wp-content/uploads/ml-header-bg.jpg)
+### Hi there , I'm Sivateja
+#### I'm a Full-Stack Developer and an ebullient ML and Data Science Enthusiast.📊
+![.](http://invisiblefiction.com/wp-content/uploads/ml-header-bg.jpg)
 
-Personally, I feel that python is the best language to work with, but I can code in other languages as well.
-I love working with frameworks such as FlasK and Django. 
-I also have knowledge in Keras and Tensorflow using which I can develop and train models using python.
+I have worked as a Full Stack development Intern at a startup, tuned the organization's website to be more responsive using ReactJS and Media Queries. Also a UI/UX designer , used figma to design the website of a Client NGO, later converted this design to a fully fledged website using AngularJS and the backend was established using NodeJS and hosted using heroku.
  
 Some of the prjects I've worked on are: 
- 1. Custom notepad applications build on python (you can add your own font too!)
+ 1. A cryptocurrecy portfolio which uses APIs to display data of cryptocurrecy made using REACTJS, REDUX and REST. 
  2. Data Analysis and Data visualization of the Indian Premier League (IPL) from 2008 to 2019.
+ 3. Neural Network classification of binary images.
+ 4. Machine Learning Projects (you can find the repos.)
+ 
 
-Currently I'm working on a project to visualize the data of Formula-1 seasons from 1950 to 2021.
 
 
-Skills: PYTHON / C / JAVA / HTML / CSS 
+
+Skills: REACT-JS / ANGULAR-JS / NODE-JS / MONGO-DB /  JAVA / HTML / CSS / C / TYPESCRIPT / PYTORCH
 
 ### My Socials:
 
